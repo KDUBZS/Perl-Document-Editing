@@ -1,0 +1,9 @@
+This is your e-ticket receipt.
+Bring passport with valid applicable visa and this receipt to check in.
+=begin comment
+This is a multiline comment.
+String *DATE* will be replaced with the input date.
+String *TIME* will be replaced with the input time.
+=cut
+Your flight to <h>Seattle</h> will depart at *DATE*, *TIME*.   #This is a single line comment. String between <h> and </h> will be converted in all uppercase.
+Please arrive the airport 2 <h>hours</h> before flight. Check with airlines for exceptions.   #This is a single line comment. String between <h> and </h> will be converted in all uppercase.
